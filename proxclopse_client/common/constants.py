@@ -1,0 +1,2 @@
+API_VERSION = 'v1'
+BASE_URI = '/' + API_VERSION + '/'
